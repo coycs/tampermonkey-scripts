@@ -14,8 +14,8 @@
 
 (function () {
   "use strict";
-  // webhook同步测试1
-  console.log("webhook同步测试1");
+  // webhook同步测试2
+  console.log("webhook同步测试2");
   window.onload = function () {
     let color, transparency, font_color;
     color = getValue("H_color");
